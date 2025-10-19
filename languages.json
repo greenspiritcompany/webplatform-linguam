@@ -1,0 +1,38 @@
+{
+  "continents": {
+    "americas": {
+      "name": "Americas",
+      "languages": {
+        "english": {
+          "short_code": "en",
+          "locale": "en-US",
+          "display_name": "English (US)",
+          "tooltip": "American English"
+        },
+        "spanish": {
+          "short_code": "es",
+          "locale": "es-LA",
+          "display_name": "Español",
+          "tooltip": "Spanish"
+        },
+        "portuguese_brazil": {
+          "short_code": "pt",
+          "locale": "pt-BR",
+          "display_name": "Português (Brasil)",
+          "tooltip": "Portuguese (Brazil)"
+        }
+      }
+    },
+    "asia": {
+      "name": "Asia-Pacific",
+      "languages": {
+        "vietnamese": {
+          "short_code": "vi",
+          "locale": "vi_VN",
+          "display_name": "Tiếng Việt",
+          "tooltip": "Vietnamese"
+        }
+      }
+    }
+  }
+}
