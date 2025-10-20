@@ -1,0 +1,655 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spirit Account\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: https://spiritaccount.net\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: sa\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "Username or Email"
+msgstr "Tên đăng nhập hoặc Email"
+
+msgid "Password"
+msgstr "Mật khẩu"
+
+msgid "Log In"
+msgstr "Đăng nhập"
+
+msgid "Forgot password?"
+msgstr "Quên mật khẩu?"
+
+msgid "Register a Spirit Account"
+msgstr "Đăng ký cho Spirit Account"
+
+msgid "Recent Logins"
+msgstr ""
+
+msgid "Click your picture or add an account."
+msgstr ""
+
+msgid "Need to leave? Stay connected."
+msgstr "Cần phải ra ngoài? Hãy giữ liên lạc."
+
+msgid "On your mobile device, go to mbasic.spiritaccount.net."
+msgstr "Trên thiết bị di động của bạn, truy cập vào mbasic.spiritaccount.net."
+
+msgid "Install Spirit Account Mobile"
+msgstr "Cài đặt Spirit Account trên thiết bị di động"
+
+msgid "App Center"
+msgstr "Trung tâm Ứng dụng"
+
+msgid "Do you like games? You better do!"
+msgstr ""
+
+msgid "A platform for beloved Facebook games,<br>bringing in old and new generations alike."
+msgstr "Một nền tảng dành cho các game được yêu thích trên Facebook, cho những thế hệ cũ và mới."
+
+msgid "Play games"
+msgstr "Chơi các game"
+
+msgid "that takes you back to the 2010s, and it will always be that way."
+msgstr "đưa bạn trở lại những năm 2010 và nó sẽ luôn như vậy."
+
+msgid "Share your gaming achievements"
+msgstr ""
+
+msgid "with a community full of nerds."
+msgstr ""
+
+msgid "Add friends"
+msgstr "Thêm bạn"
+
+msgid "to compete or help each others in games!"
+msgstr "để cạnh tranh hoặc giúp đỡ nhau trong các game!"
+
+msgid "Search"
+msgstr "Tìm kiếm"
+
+msgid "what you need easily with the all-new Spirit Account Search system."
+msgstr "các thứ bạn cần dễ dàng với hệ thống Tìm kiếm Spirit Account."
+
+msgid "helps you make in-app purchases in games for no cost."
+msgstr "giúp các bạn mua hàng trong các ứng dụng hoàn toàn miễn phí."
+
+msgid "It’s free, simple and always will be."
+msgstr "Miễn phí, dễ dàng và sẽ luôn như vậy."
+
+msgid "Display name"
+msgstr "Tên hiển thị"
+
+msgid "Username (@ handle)"
+msgstr "Tên đăng nhập (hiển thị bởi dấu @ ở trước)"
+
+msgid "Email address"
+msgstr "Email"
+
+msgid "New password"
+msgstr "Mật khẩu mới"
+
+msgid "Re-enter new password"
+msgstr "Nhập lại mật khẩu mới"
+
+msgid "By clicking Register, you agree to our"
+msgstr "Bằng cách nhấp vào Đăng ký, bạn đồng ý với"
+
+msgid "Terms of Service"
+msgstr "Điều khoản"
+
+msgid "and that you have read our"
+msgstr "và bạn đã đọc"
+
+msgid "Privacy Policy"
+msgstr "Chính sách dữ liệu"
+
+msgid "Already have a Spirit Account? Well, login at the top then!"
+msgstr ""
+
+msgid "Bring games home"
+msgstr "Mang trò chơi về nhà"
+
+msgid "Spirit Account Game Cards are the quick and easy way to buy items in your favorite games and apps on Spirit Account."
+msgstr "Thẻ trò chơi trên Spirit Account là cách nhanh chóng và dễ dàng để mua vật phẩm trong các trò chơi và ứng dụng yêu thích của bạn trên Spirit Account."
+
+msgid "Redeem Code"
+msgstr "Đổi mã"
+
+msgid "How to get a Card?"
+msgstr "Làm thế nào để nhận được Thẻ?"
+
+msgid "Spirit Account Game Cards are the quick and easy way to buy items in your favorite games and apps on Spirit Account. Whether you're looking to speed up your progress or play more games with friends, the Spirit Account Game Card works across thousands of games on Spirit Account. Bring one home today."
+msgstr "Thẻ trò chơi trên Spirit Account là cách nhanh chóng và dễ dàng để mua vật phẩm trong các trò chơi và ứng dụng yêu thích của bạn trên Spirit Account. Dù bạn muốn đẩy nhanh tiến trình của mình hoặc chơi nhiều trò hơn với bạn bè, Thẻ trò chơi Spirit Account hoạt động trên hàng nghìn trò chơi trên Spirit Account. Hãy mang một thẻ về bạn hôm nay."
+
+msgid "Visit the App Center"
+msgstr "Truy cập Trung tâm ứng dụng"
+
+msgid "Help Center"
+msgstr "Trung tâm trợ giúp"
+
+msgid "Check Your Balance"
+msgstr "Kiểm tra số dư của bạn"
+
+msgid "Send"
+msgstr "Gửi"
+
+msgid "Cancel"
+msgstr "Hủy"
+
+msgid "Questions people may question..."
+msgstr "Những câu hỏi mà mọi người có thể đặt ra..."
+
+msgid "Looking for a little communication?"
+msgstr "Bạn đang tìm kiếm một chút giao tiếp?"
+
+msgid "Explore our Discord Community!"
+msgstr "Khám phá cộng đồng Discord của chúng tôi!"
+
+msgid "Visit our Discord Community"
+msgstr "Tham gia cộng đồng Discord"
+
+msgid "Get help from other people on Spirit Account with similar questions"
+msgstr "Nhận sự trợ giúp từ những người khác trên Spirit Account có câu hỏi tương tự"
+
+msgid "Share Article"
+msgstr "Chia sẻ bài viết"
+
+msgid "How helpful did you find this answer?"
+msgstr "Bạn thấy câu trả lời này hữu ích đến mức nào?"
+
+msgid "Return to Spirit Account"
+msgstr "Trở lại Spirit Account"
+
+msgid "Home"
+msgstr "Trang chủ"
+
+msgid "Using Spirit Account"
+msgstr "Sử dụng Spirit Account"
+
+msgid "Creating a Spirit Account"
+msgstr "Tạo tài khoản Spirit Account"
+
+msgid "Friending"
+msgstr "Kết bạn"
+
+msgid "Your Home Page"
+msgstr "Trang chủ của bạn"
+
+msgid "Messaging"
+msgstr ""
+
+msgid "Photos"
+msgstr ""
+
+msgid "Videos"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "Groups"
+msgstr ""
+
+msgid "Apps and Games"
+msgstr ""
+
+msgid "Spirit Account Mobile and Desktop Apps"
+msgstr ""
+
+msgid "Accessibility"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Terms & Policies"
+msgstr ""
+
+msgid "Cookies"
+msgstr ""
+
+msgid "Work with us!"
+msgstr ""
+
+msgid "Create Page"
+msgstr ""
+
+msgid "Developers"
+msgstr ""
+
+msgid "Support Us!"
+msgstr ""
+
+msgid "View Full Article"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Facebook games"
+msgstr ""
+
+msgid "Over the years, it’s legacy shaped us, but eventually left us. Today, get ready to experience that legacy again."
+msgstr ""
+
+msgid "Ways to Spirit-ize"
+msgstr ""
+
+msgid "Spirit Account isn't just for your amazing web-games. It's also a platform to keep you connected to your friends. Check out some of the ways we help you stay connected."
+msgstr ""
+
+msgid "Every single people who made Spirit Account a reality."
+msgstr ""
+
+msgid "Founder"
+msgstr ""
+
+msgid "Main Contributors"
+msgstr ""
+
+msgid "QA Testers"
+msgstr ""
+
+msgid "beta testers"
+msgstr ""
+
+msgid "Special thanks"
+msgstr ""
+
+msgid "And, we can't forget the Spirit Lair community, as well as all of registered Spirit Account users!"
+msgstr ""
+
+msgid "Green Spirit, the Green Spirit logo and Spirit Account are properties of The Green Spirit."
+msgstr ""
+
+msgid "All rights reserved."
+msgstr ""
+
+msgid "Privacy Basics"
+msgstr ""
+
+msgid "Create a Page"
+msgstr ""
+
+msgid "Our Policies"
+msgstr ""
+
+msgid "Data Policy"
+msgstr ""
+
+msgid "Terms and Policies"
+msgstr ""
+
+msgid "Spirit Account for Developers"
+msgstr ""
+
+msgid "Create a Post"
+msgstr ""
+
+msgid "Add Photos/Video"
+msgstr ""
+
+msgid "Photo/Video Album"
+msgstr ""
+
+msgid "What's on your mind?"
+msgstr ""
+
+msgid "Add photos or a video to your post"
+msgstr ""
+
+msgid "Tag people in your post"
+msgstr ""
+
+msgid "Add what you're doing or feeling"
+msgstr ""
+
+msgid "Check In"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Post"
+msgstr ""
+
+msgid "Edit Profile"
+msgstr ""
+
+msgid "Games"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Terms"
+msgstr ""
+
+msgid "Green Spirit, the Green Spirit logo and Spirit Account are properties of The Green Spirit. All rights reserved."
+msgstr ""
+
+msgid "Spirit Account is not sponsored, authorized, or endorsed by any producer of the curated games hosted on this platform, including King.com, Jackbox Games, Electronic Arts, The Tetris Company, and Rovio Entertainment Corporation. Use of this site signifies your acceptance of the Terms and Conditions. Facebook® is a registered trademark of Meta Platforms, Inc. This platform is not affiliated with or endorsed by Meta."
+msgstr ""
+
+msgid "Spirit Account services allow users and curators to integrate SA into their games as a Facebook replacement. Before logging in with your Spirit Account, review the content and rules of their platform. Your account is your responsibility. We do not provide support for curations created by third-party groups."
+msgstr ""
+
+msgid "Help spread the Spirit Account project to the globe to let people re-live these old games!"
+msgstr ""
+
+msgid "Learn more about us here"
+msgstr ""
+
+msgid "Drag to Reposition Cover"
+msgstr ""
+
+msgid "Update Cover Photo"
+msgstr ""
+
+msgid "Add Cover Photo"
+msgstr ""
+
+msgid "See your activity on Spirit Account"
+msgstr ""
+
+msgid "Other actions"
+msgstr ""
+
+msgid "Add %s as a friend"
+msgstr ""
+
+msgid "Friend Request Sent"
+msgstr ""
+
+msgid "Friend"
+msgstr ""
+
+msgid "Friends"
+msgstr ""
+
+msgid "Following"
+msgstr ""
+
+msgid "Follow"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Timeline"
+msgstr ""
+
+msgid "Recent"
+msgstr ""
+
+msgid "All Posts"
+msgstr ""
+
+msgid "Activity Log..."
+msgstr ""
+
+msgid "Select Your Language"
+msgstr ""
+
+msgid "All Languages"
+msgstr ""
+
+msgid "Africa and Middle East"
+msgstr ""
+
+msgid "Americas"
+msgstr ""
+
+msgid "Asia-Pacific"
+msgstr ""
+
+msgid "Eastern Europe"
+msgstr ""
+
+msgid "Western Europe"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Deny"
+msgstr ""
+
+msgid "Remove Friend"
+msgstr ""
+
+msgid "You need Javascript enabled in your browser to use Spirit Account Applications."
+msgstr ""
+
+msgid "Your Spirit Account is not verified. In order to continue and play, please verify your account by checking your email's inbox."
+msgstr ""
+
+msgid "Learn about your privacy and Spirit Account."
+msgstr ""
+
+msgid "Review our terms and policies."
+msgstr ""
+
+msgid "Consider supporting us so we can keep this project up!"
+msgstr ""
+
+msgid "Learn about cookies and Spirit Account."
+msgstr ""
+
+msgid "TRENDING AMONG FRIENDS"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "RECOMMENDED GAMES"
+msgstr ""
+
+msgid "Review our Terms of Service."
+msgstr ""
+
+msgid "Welcome to Spirit Account 2.0, introducing you to a whole new era of Spirit Account."
+msgstr ""
+
+msgid "Learn more"
+msgstr ""
+
+msgid ", go to  to continue using Spirit Account."
+msgstr ""
+
+msgid "Resend Email"
+msgstr ""
+
+msgid "Change Email Address"
+msgstr ""
+
+msgid "Learn More"
+msgstr ""
+
+msgid "Go to Spirit Account home"
+msgstr ""
+
+msgid "Go to Spirit Account Home"
+msgstr ""
+
+msgid "Forgot your password?"
+msgstr ""
+
+msgid "Skip to My Feed"
+msgstr ""
+
+msgid "Search for games, people and things"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Recent Searches"
+msgstr ""
+
+msgid "Search Suggestions"
+msgstr ""
+
+msgid "Find Games"
+msgstr ""
+
+msgid "Friend Requests"
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "Mark All Read"
+msgstr ""
+
+msgid "New Message"
+msgstr ""
+
+msgid "Message Requests"
+msgstr ""
+
+msgid "See All"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Mark All as Read"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Privacy Shortcuts"
+msgstr ""
+
+msgid "Search for help"
+msgstr ""
+
+msgid "See More Settings"
+msgstr ""
+
+msgid " or visit "
+msgstr ""
+
+msgid "Visit Help Center"
+msgstr ""
+
+msgid "Account Settings"
+msgstr ""
+
+msgid "Show more languages"
+msgstr ""
+
+msgid "Log into Spirit Account"
+msgstr ""
+
+msgid "Learn more about Spirit Account."
+msgstr ""
+
+msgid "Check out Spirit Account games."
+msgstr ""
+
+msgid "Join the Spirit Lair Discord server to discuss about Spirit Account!"
+msgstr ""
+
+msgid "Follow Spirit Account's Bluesky to get the utmost cool updates!"
+msgstr ""
+
+msgid "Develop on our platform."
+msgstr ""
+
+msgid "Have any web-related skills? Make your move to our awesome company."
+msgstr ""
+
+msgid "Visit our Help Center."
+msgstr ""
+
+msgid "View and edit your Spirit Account settings."
+msgstr ""
+
+msgid "View your activity log"
+msgstr ""
+
+msgid "Activity Log"
+msgstr ""
+
+msgid "Spirit Account is not sponsored or endorsed by any producer of the curated games hosted on this platform. Spirit Account is and will always be a platform for"
+msgstr ""
+
+msgid "preserving Facebook games"
+msgstr ""
+
+msgid "is a registered trademark of Meta Platforms, Inc."
+msgstr ""
+
+msgid "We are not affiliated with or endorsed by Meta"
+msgstr ""
+
+msgid "Spirit Account allows users and curators to integrate SA into their games as a Facebook replacement. Before logging in with your Spirit Account, review the content and rules of their platform. Your account is your responsibility. We do not provide support for curations created by third-party groups."
+msgstr ""
+
+msgid "Use Spirit Account in another language."
+msgstr ""
+
+msgid "App not active"
+msgstr ""
+
+msgid "This app is not currently accessible and the app developer is aware of the issue. You will be able to log in when the app is reactivated."
+msgstr ""
+
+msgid "Misconfigured App"
+msgstr ""
+
+msgid "Sorry, %s hasn't been approved for display in App Center."
+msgstr ""
+
+msgid "Play Now"
+msgstr ""
+
+msgid "Log In to Continue"
+msgstr ""
+
+msgid "By clicking \"Play Now\" above, this app will receive:"
+msgstr ""
+
+msgid "Your public profile"
+msgstr ""
+
+msgid "Your public profile includes display name, username, profile picture, language, country and other public info"
+msgstr ""
+
+msgid "By proceeding, you agree to %s's"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Report a Problem"
+msgstr ""
+
+msgid "Available for"
+msgstr ""
+
+msgid "See More"
+msgstr ""
+
+msgid "Also Recommended Games"
+msgstr ""
+
+msgid "Recommended Games"
+msgstr ""

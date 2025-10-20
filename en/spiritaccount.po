@@ -1,0 +1,641 @@
+msgid "Username or Email"
+msgstr "Username or Email"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Log In"
+msgstr "Log In"
+
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+msgid "Register a Spirit Account"
+msgstr "Register a Spirit Account"
+
+msgid "Recent Logins"
+msgstr "Recent Logins"
+
+msgid "Click your picture or add an account."
+msgstr "Click your picture or add an account."
+
+msgid "Need to leave? Stay connected."
+msgstr "Need to leave? Stay connected."
+
+msgid "On your mobile device, go to mbasic.spiritaccount.net."
+msgstr "On your mobile device, go to mbasic.spiritaccount.net."
+
+msgid "Install Spirit Account Mobile"
+msgstr "Install Spirit Account Mobile"
+
+msgid "App Center"
+msgstr "App Center"
+
+msgid "Do you like games? You better do!"
+msgstr "Do you like games? You better do!"
+
+msgid "A platform for beloved Facebook games,<br>bringing in old and new generations alike."
+msgstr "A platform for beloved Facebook games,<br>bringing in old and new generations alike."
+
+msgid "Play games"
+msgstr "Play games"
+
+msgid "that takes you back to the 2010s, and it will always be that way."
+msgstr "that takes you back to the 2010s, and it will always be that way."
+
+msgid "Share your gaming achievements"
+msgstr "Share your gaming achievements"
+
+msgid "with a community full of nerds."
+msgstr "with a community full of nerds."
+
+msgid "Add friends"
+msgstr "Add friends"
+
+msgid "to compete or help each others in games!"
+msgstr "to compete or help each others in games!"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "what you need easily with the all-new Spirit Account Search system."
+msgstr "what you need easily with the all-new Spirit Account Search system."
+
+msgid "helps you make in-app purchases in games for no cost."
+msgstr "helps you make in-app purchases in games for no cost."
+
+msgid "It’s free, simple and always will be."
+msgstr "It’s free, simple and always will be."
+
+msgid "Display name"
+msgstr "Display name"
+
+msgid "Username (@ handle)"
+msgstr "Username (@ handle)"
+
+msgid "Email address"
+msgstr "Email address"
+
+msgid "New password"
+msgstr "New password"
+
+msgid "Re-enter new password"
+msgstr "Re-enter new password"
+
+msgid "By clicking Register, you agree to our"
+msgstr "By clicking Register, you agree to our"
+
+msgid "Terms of Service"
+msgstr "Terms of Service"
+
+msgid "and that you have read our"
+msgstr "and that you have read our"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Already have a Spirit Account? Well, login at the top then!"
+msgstr "Already have a Spirit Account? Well, login at the top then!"
+
+msgid "Bring games home"
+msgstr "Bring games home"
+
+msgid "Spirit Account Game Cards are the quick and easy way to buy items in your favorite games and apps on Spirit Account."
+msgstr "Spirit Account Game Cards are the quick and easy way to buy items in your favorite games and apps on Spirit Account."
+
+msgid "Redeem Code"
+msgstr "Redeem Code"
+
+msgid "How to get a Card?"
+msgstr "How to get a Card?"
+
+msgid "Spirit Account Game Cards are the quick and easy way to buy items in your favorite games and apps on Spirit Account. Whether you're looking to speed up your progress or play more games with friends, the Spirit Account Game Card works across thousands of games on Spirit Account. Bring one home today."
+msgstr "Spirit Account Game Cards are the quick and easy way to buy items in your favorite games and apps on Spirit Account. Whether you're looking to speed up your progress or play more games with friends, the Spirit Account Game Card works across thousands of games on Spirit Account. Bring one home today."
+
+msgid "Visit the App Center"
+msgstr "Visit the App Center"
+
+msgid "Help Center"
+msgstr "Help Center"
+
+msgid "Check Your Balance"
+msgstr "Check Your Balance"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Questions people may question..."
+msgstr "Questions people may question..."
+
+msgid "Looking for a little communication?"
+msgstr "Looking for a little communication?"
+
+msgid "Explore our Discord Community!"
+msgstr "Explore our Discord Community!"
+
+msgid "Visit our Discord Community"
+msgstr "Visit our Discord Community"
+
+msgid "Get help from other people on Spirit Account with similar questions"
+msgstr "Get help from other people on Spirit Account with similar questions"
+
+msgid "Share Article"
+msgstr "Share Article"
+
+msgid "How helpful did you find this answer?"
+msgstr "How helpful did you find this answer?"
+
+msgid "Return to Spirit Account"
+msgstr "Return to Spirit Account"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Using Spirit Account"
+msgstr "Using Spirit Account"
+
+msgid "Creating a Spirit Account"
+msgstr "Creating a Spirit Account"
+
+msgid "Friending"
+msgstr "Friending"
+
+msgid "Your Home Page"
+msgstr "Your Home Page"
+
+msgid "Messaging"
+msgstr "Messaging"
+
+msgid "Photos"
+msgstr "Photos"
+
+msgid "Videos"
+msgstr "Videos"
+
+msgid "Pages"
+msgstr "Pages"
+
+msgid "Groups"
+msgstr "Groups"
+
+msgid "Apps and Games"
+msgstr "Apps and Games"
+
+msgid "Spirit Account Mobile and Desktop Apps"
+msgstr "Spirit Account Mobile and Desktop Apps"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "About"
+msgstr "About"
+
+msgid "Privacy"
+msgstr "Privacy"
+
+msgid "Terms & Policies"
+msgstr "Terms & Policies"
+
+msgid "Cookies"
+msgstr "Cookies"
+
+msgid "Work with us!"
+msgstr "Work with us!"
+
+msgid "Create Page"
+msgstr "Create Page"
+
+msgid "Developers"
+msgstr "Developers"
+
+msgid "Support Us!"
+msgstr "Support Us!"
+
+msgid "View Full Article"
+msgstr "View Full Article"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "Facebook games"
+msgstr "Facebook games"
+
+msgid "Over the years, it’s legacy shaped us, but eventually left us. Today, get ready to experience that legacy again."
+msgstr "Over the years, it’s legacy shaped us, but eventually left us. Today, get ready to experience that legacy again."
+
+msgid "Ways to Spirit-ize"
+msgstr "Ways to Spirit-ize"
+
+msgid "Spirit Account isn't just for your amazing web-games. It's also a platform to keep you connected to your friends. Check out some of the ways we help you stay connected."
+msgstr "Spirit Account isn't just for your amazing web-games. It's also a platform to keep you connected to your friends. Check out some of the ways we help you stay connected."
+
+msgid "Every single people who made Spirit Account a reality."
+msgstr "Every single people who made Spirit Account a reality."
+
+msgid "Founder"
+msgstr "Founder"
+
+msgid "Main Contributors"
+msgstr "Main Contributors"
+
+msgid "QA Testers"
+msgstr "QA Testers"
+
+msgid "beta testers"
+msgstr "beta testers"
+
+msgid "Special thanks"
+msgstr "Special thanks"
+
+msgid "And, we can't forget the Spirit Lair community, as well as all of registered Spirit Account users!"
+msgstr "And, we can't forget the Spirit Lair community, as well as all of registered Spirit Account users!"
+
+msgid "Green Spirit, the Green Spirit logo and Spirit Account are properties of The Green Spirit."
+msgstr "Green Spirit, the Green Spirit logo and Spirit Account are properties of The Green Spirit."
+
+msgid "All rights reserved."
+msgstr "All rights reserved."
+
+msgid "Privacy Basics"
+msgstr "Privacy Basics"
+
+msgid "Create a Page"
+msgstr "Create a Page"
+
+msgid "Our Policies"
+msgstr "Our Policies"
+
+msgid "Data Policy"
+msgstr "Data Policy"
+
+msgid "Terms and Policies"
+msgstr "Terms and Policies"
+
+msgid "Spirit Account for Developers"
+msgstr "Spirit Account for Developers"
+
+msgid "Create a Post"
+msgstr "Create a Post"
+
+msgid "Add Photos/Video"
+msgstr "Add Photos/Video"
+
+msgid "Photo/Video Album"
+msgstr "Photo/Video Album"
+
+msgid "What's on your mind?"
+msgstr "What's on your mind?"
+
+msgid "Add photos or a video to your post"
+msgstr "Add photos or a video to your post"
+
+msgid "Tag people in your post"
+msgstr "Tag people in your post"
+
+msgid "Add what you're doing or feeling"
+msgstr "Add what you're doing or feeling"
+
+msgid "Check In"
+msgstr "Check In"
+
+msgid "Loading..."
+msgstr "Loading..."
+
+msgid "Public"
+msgstr "Public"
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Edit Profile"
+msgstr "Edit Profile"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Terms"
+msgstr "Terms"
+
+msgid "Green Spirit, the Green Spirit logo and Spirit Account are properties of The Green Spirit. All rights reserved."
+msgstr "Green Spirit, the Green Spirit logo and Spirit Account are properties of The Green Spirit. All rights reserved."
+
+msgid "Spirit Account is not sponsored, authorized, or endorsed by any producer of the curated games hosted on this platform, including King.com, Jackbox Games, Electronic Arts, The Tetris Company, and Rovio Entertainment Corporation. Use of this site signifies your acceptance of the Terms and Conditions. Facebook® is a registered trademark of Meta Platforms, Inc. This platform is not affiliated with or endorsed by Meta."
+msgstr "Spirit Account is not sponsored, authorized, or endorsed by any producer of the curated games hosted on this platform, including King.com, Jackbox Games, Electronic Arts, The Tetris Company, and Rovio Entertainment Corporation. Use of this site signifies your acceptance of the Terms and Conditions. Facebook® is a registered trademark of Meta Platforms, Inc. This platform is not affiliated with or endorsed by Meta."
+
+msgid "Spirit Account services allow users and curators to integrate SA into their games as a Facebook replacement. Before logging in with your Spirit Account, review the content and rules of their platform. Your account is your responsibility. We do not provide support for curations created by third-party groups."
+msgstr "Spirit Account services allow users and curators to integrate SA into their games as a Facebook replacement. Before logging in with your Spirit Account, review the content and rules of their platform. Your account is your responsibility. We do not provide support for curations created by third-party groups."
+
+msgid "Help spread the Spirit Account project to the globe to let people re-live these old games!"
+msgstr "Help spread the Spirit Account project to the globe to let people re-live these old games!"
+
+msgid "Learn more about us here"
+msgstr "Learn more about us here"
+
+msgid "Drag to Reposition Cover"
+msgstr "Drag to Reposition Cover"
+
+msgid "Update Cover Photo"
+msgstr "Update Cover Photo"
+
+msgid "Add Cover Photo"
+msgstr "Add Cover Photo"
+
+msgid "See your activity on Spirit Account"
+msgstr "See your activity on Spirit Account"
+
+msgid "Other actions"
+msgstr "Other actions"
+
+msgid "Add %s as a friend"
+msgstr "Add %s as a friend"
+
+msgid "Friend Request Sent"
+msgstr "Friend Request Sent"
+
+msgid "Friend"
+msgstr "Friend"
+
+msgid "Friends"
+msgstr "Friends"
+
+msgid "Following"
+msgstr "Following"
+
+msgid "Follow"
+msgstr "Follow"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Timeline"
+msgstr "Timeline"
+
+msgid "Recent"
+msgstr "Recent"
+
+msgid "All Posts"
+msgstr "All Posts"
+
+msgid "Activity Log..."
+msgstr "Activity Log..."
+
+msgid "Select Your Language"
+msgstr "Select Your Language"
+
+msgid "All Languages"
+msgstr "All Languages"
+
+msgid "Africa and Middle East"
+msgstr "Africa and Middle East"
+
+msgid "Americas"
+msgstr "Americas"
+
+msgid "Asia-Pacific"
+msgstr "Asia-Pacific"
+
+msgid "Eastern Europe"
+msgstr "Eastern Europe"
+
+msgid "Western Europe"
+msgstr "Western Europe"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Accept"
+msgstr "Accept"
+
+msgid "Deny"
+msgstr "Deny"
+
+msgid "Remove Friend"
+msgstr "Remove Friend"
+
+msgid "You need Javascript enabled in your browser to use Spirit Account Applications."
+msgstr "You need Javascript enabled in your browser to use Spirit Account Applications."
+
+msgid "Your Spirit Account is not verified. In order to continue and play, please verify your account by checking your email's inbox."
+msgstr "Your Spirit Account is not verified. In order to continue and play, please verify your account by checking your email's inbox."
+
+msgid "Learn about your privacy and Spirit Account."
+msgstr "Learn about your privacy and Spirit Account."
+
+msgid "Review our terms and policies."
+msgstr "Review our terms and policies."
+
+msgid "Consider supporting us so we can keep this project up!"
+msgstr "Consider supporting us so we can keep this project up!"
+
+msgid "Learn about cookies and Spirit Account."
+msgstr "Learn about cookies and Spirit Account."
+
+msgid "TRENDING AMONG FRIENDS"
+msgstr "TRENDING AMONG FRIENDS"
+
+msgid "More"
+msgstr "More"
+
+msgid "RECOMMENDED GAMES"
+msgstr "RECOMMENDED GAMES"
+
+msgid "Review our Terms of Service."
+msgstr "Review our Terms of Service."
+
+msgid "Welcome to Spirit Account 2.0, introducing you to a whole new era of Spirit Account."
+msgstr "Welcome to Spirit Account 2.0, introducing you to a whole new era of Spirit Account."
+
+msgid "Learn more"
+msgstr "Learn more"
+
+msgid ", go to  to continue using Spirit Account."
+msgstr ", go to  to continue using Spirit Account."
+
+msgid "Resend Email"
+msgstr "Resend Email"
+
+msgid "Change Email Address"
+msgstr "Change Email Address"
+
+msgid "Learn More"
+msgstr "Learn More"
+
+msgid "Go to Spirit Account home"
+msgstr "Go to Spirit Account home"
+
+msgid "Go to Spirit Account Home"
+msgstr "Go to Spirit Account Home"
+
+msgid "Forgot your password?"
+msgstr "Forgot your password?"
+
+msgid "Skip to My Feed"
+msgstr "Skip to My Feed"
+
+msgid "Search for games, people and things"
+msgstr "Search for games, people and things"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Recent Searches"
+msgstr "Recent Searches"
+
+msgid "Search Suggestions"
+msgstr "Search Suggestions"
+
+msgid "Find Games"
+msgstr "Find Games"
+
+msgid "Friend Requests"
+msgstr "Friend Requests"
+
+msgid "Messages"
+msgstr "Messages"
+
+msgid "Mark All Read"
+msgstr "Mark All Read"
+
+msgid "New Message"
+msgstr "New Message"
+
+msgid "Message Requests"
+msgstr "Message Requests"
+
+msgid "See All"
+msgstr "See All"
+
+msgid "Notifications"
+msgstr "Notifications"
+
+msgid "Mark All as Read"
+msgstr "Mark All as Read"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Privacy Shortcuts"
+msgstr "Privacy Shortcuts"
+
+msgid "Search for help"
+msgstr "Search for help"
+
+msgid "See More Settings"
+msgstr "See More Settings"
+
+msgid " or visit "
+msgstr " or visit "
+
+msgid "Visit Help Center"
+msgstr "Visit Help Center"
+
+msgid "Account Settings"
+msgstr "Account Settings"
+
+msgid "Show more languages"
+msgstr "Show more languages"
+
+msgid "Log into Spirit Account"
+msgstr "Log into Spirit Account"
+
+msgid "Learn more about Spirit Account."
+msgstr "Learn more about Spirit Account."
+
+msgid "Check out Spirit Account games."
+msgstr "Check out Spirit Account games."
+
+msgid "Join the Spirit Lair Discord server to discuss about Spirit Account!"
+msgstr "Join the Spirit Lair Discord server to discuss about Spirit Account!"
+
+msgid "Follow Spirit Account's Bluesky to get the utmost cool updates!"
+msgstr "Follow Spirit Account's Bluesky to get the utmost cool updates!"
+
+msgid "Develop on our platform."
+msgstr "Develop on our platform."
+
+msgid "Have any web-related skills? Make your move to our awesome company."
+msgstr "Have any web-related skills? Make your move to our awesome company."
+
+msgid "Visit our Help Center."
+msgstr "Visit our Help Center."
+
+msgid "View and edit your Spirit Account settings."
+msgstr "View and edit your Spirit Account settings."
+
+msgid "View your activity log"
+msgstr "View your activity log"
+
+msgid "Activity Log"
+msgstr "Activity Log"
+
+msgid "Spirit Account is not sponsored or endorsed by any producer of the curated games hosted on this platform. Spirit Account is and will always be a platform for"
+msgstr "Spirit Account is not sponsored or endorsed by any producer of the curated games hosted on this platform. Spirit Account is and will always be a platform for"
+
+msgid "preserving Facebook games"
+msgstr "preserving Facebook games"
+
+msgid "is a registered trademark of Meta Platforms, Inc."
+msgstr "is a registered trademark of Meta Platforms, Inc."
+
+msgid "We are not affiliated with or endorsed by Meta"
+msgstr "We are not affiliated with or endorsed by Meta"
+
+msgid "Spirit Account allows users and curators to integrate SA into their games as a Facebook replacement. Before logging in with your Spirit Account, review the content and rules of their platform. Your account is your responsibility. We do not provide support for curations created by third-party groups."
+msgstr "Spirit Account allows users and curators to integrate SA into their games as a Facebook replacement. Before logging in with your Spirit Account, review the content and rules of their platform. Your account is your responsibility. We do not provide support for curations created by third-party groups."
+
+msgid "Use Spirit Account in another language."
+msgstr "Use Spirit Account in another language."
+
+msgid "App not active"
+msgstr "App not active"
+
+msgid "This app is not currently accessible and the app developer is aware of the issue. You will be able to log in when the app is reactivated."
+msgstr "This app is not currently accessible and the app developer is aware of the issue. You will be able to log in when the app is reactivated."
+
+msgid "Misconfigured App"
+msgstr "Misconfigured App"
+
+msgid "Sorry, %s hasn't been approved for display in App Center."
+msgstr "Sorry, %s hasn't been approved for display in App Center."
+
+msgid "Play Now"
+msgstr "Play Now"
+
+msgid "Log In to Continue"
+msgstr "Log In to Continue"
+
+msgid "By clicking \"Play Now\" above, this app will receive:"
+msgstr ""
+
+msgid "Your public profile"
+msgstr "Your public profile"
+
+msgid "Your public profile includes display name, username, profile picture, language, country and other public info"
+msgstr "Your public profile includes display name, username, profile picture, language, country and other public info"
+
+msgid "By proceeding, you agree to %s's"
+msgstr "By proceeding, you agree to %s's"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Report a Problem"
+msgstr "Report a Problem"
+
+msgid "Available for"
+msgstr "Available for"
+
+msgid "See More"
+msgstr "See More"
+
+msgid "Also Recommended Games"
+msgstr "Also Recommended Games"
+
+msgid "Recommended Games"
+msgstr "Recommended Games"
